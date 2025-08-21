@@ -1,0 +1,13 @@
+{
+    "SARIMA_daily": {
+        "MAE": 3506.72,
+        "RMSE": 4273.62,
+        "MAPE": 11.42
+    },
+    "Naive_daily": {
+        "MAE": 1856.42,
+        "RMSE": 2404.79,
+        "MAPE": 6.03
+    },
+    "Komentar": "SARIMA na dennej agregácii vyšla horšie ako baseline."
+}

@@ -1,0 +1,6 @@
+{
+  "baseline_daily": { "MAE": 1856.42, "RMSE": 2404.79, "MAPE": 6.03, "note": "-" },
+  "prophet_daily":  { "MAE": 2546.51, "RMSE": 3478.72, "MAPE": 7.67, "note": "-" },
+  "sarima_daily":   { "MAE": 3506.72, "RMSE": 4273.62, "MAPE": 11.42, "note": "agregácia na denné údaje (RAM limit)" },
+  "lstm_7d":        { "MAE": 2443.00, "RMSE": 2809.00, "MAPE": 7.10, "note": "backtest 7 dní (rolling)" }
+}

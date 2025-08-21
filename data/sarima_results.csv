@@ -1,0 +1,4 @@
+,MAE,RMSE,MAPE
+SARIMA_daily,3506.72,4273.62,11.42
+Naive_daily,1856.42,2404.79,6.03
+Komentar,SARIMA na dennej agregácii vyšla horšie ako baseline.,SARIMA na dennej agregácii vyšla horšie ako baseline.,SARIMA na dennej agregácii vyšla horšie ako baseline.

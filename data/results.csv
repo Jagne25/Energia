@@ -1,0 +1,5 @@
+Model,MAE,RMSE,MAPE,Note
+baseline_daily,1856.42,2404.79,6.03,-
+prophet_daily,2546.51,3478.72,7.67,-
+sarima_daily,3506.72,4273.62,11.42,"agregácia na denné údaje (RAM limit)"
+lstm_7d,2443.00,2809.00,7.10,"backtest 7 dní (rolling)"
